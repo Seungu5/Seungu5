@@ -10,4 +10,4 @@
 ### Certificate 
 - AWS Certified Solutions Architect - Associate (SAA)<br>
 - AWS Certified Sysops Administrator - Associate (SOA)<br>
-- Microsoft Azure Fundementals (Az-900) <br>
+- Microsoft Certified: Azure Fundamentals (Az-900) <br>
