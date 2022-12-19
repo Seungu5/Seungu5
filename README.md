@@ -21,7 +21,7 @@
 * * *
 
 
-### 📕 Learning List
+📕 Learning List
 - Cloud (AWS & AZURE)
 - IaC (Ansible & Terraform)
 - Containers (Docker & Kubernetes)
