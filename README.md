@@ -1,21 +1,19 @@
-###👋 Hi, I’m @Seungu5
+### 👋 Hi, I’m @Seungu5
 
-<br>
 
-###📕I’m  learning
+### 📕I’m  learning
 - IaC (Ansible & Terraform)
 - Container (Docker & Kubernetes)
 - CICD (Jenkins & ArgoCD)
 - Cloud (AWS & AZURE)
 
-<br>
 
-###🏆 Certificate 
+### 🏆 Certificate 
 - AWS Certified Solutions Architect - Associate (SAA)<br>
 - AWS Certified Sysops Administrator - Associate (SOA)<br>
 - Microsoft Certified: Azure Fundamentals (Az-900) <br>
 
-<br>
+
 
 ## <div align="center">보유 기술</div>
 
