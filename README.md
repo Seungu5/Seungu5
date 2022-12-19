@@ -10,19 +10,15 @@
 <div align="center"> - CICD (Jenkins & ArgoCD) </div>
 
 
-<details close>
-<div align="center">
-<summary>### 🏆 Certificattion </summary>
-  <ol>
-    - AWS Certified Solutions Architect - Associate (SAA)<br>
-    - AWS Certified Sysops Administrator - Associate (SOA)<br>
-    - Microsoft Certified: Azure Fundamentals (Az-900) <br>
-    - Google Analytics Individual Qualification (GAIQ) <br>
-  </ol>
-</details>
-<br>
- </div>
 
+* * *
+
+<div align="center"> 🏆 Certificattion </div>
+- AWS Certified Solutions Architect - Associate (SAA)<br>
+- AWS Certified Sysops Administrator - Associate (SOA)<br>
+- Microsoft Certified: Azure Fundamentals (Az-900) <br>
+- Google Analytics Individual Qualification (GAIQ) <br>
+</div>
 
 * * *
 
