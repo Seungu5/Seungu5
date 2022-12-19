@@ -2,7 +2,7 @@
 
 * * *
 
-### <div align="center"> 📕 Learning List </div>
+### 📕 Learning List </div>
 <div align="center"> - Linux </div>
 <div align="center"> - Cloud (AWS & AZURE) </div>
 <div align="center"> - IaC (Ansible & Terraform) </div>
@@ -13,7 +13,7 @@
 
 * * *
 
-<div align="center"> 🏆 Certificattion </div>
+🏆 Certificattion </div>
 - AWS Certified Solutions Architect - Associate (SAA)<br>
 - AWS Certified Sysops Administrator - Associate (SOA)<br>
 - Microsoft Certified: Azure Fundamentals (Az-900) <br>
