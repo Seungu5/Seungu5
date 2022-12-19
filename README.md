@@ -15,14 +15,13 @@
 
 * * *
 
-### <div align="center"> 👋 Welcome!, I'm interested in Cloud & Devops & Site Reliability Engineering. </div>
+### <div align="center"> Welcome! 👋 I'm interested in Cloud & Devops & Site Reliability Engineering. </div>
 
 
 * * *
 
 
 ### 📕 Learning List
-- Linux
 - Cloud (AWS & AZURE)
 - IaC (Ansible & Terraform)
 - Containers (Docker & Kubernetes)
@@ -34,7 +33,7 @@
 
 <br>
 <details close>
-<summary>### 🏅Certificate </summary>
+<summary>🏅Certification </summary>
   <ol>
     - AWS Certified Solutions Architect - Associate (SAA)<br>
     - AWS Certified Sysops Administrator - Associate (SOA)<br>
