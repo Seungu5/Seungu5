@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/kubernetes-3970e4?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-f7f1da?style=flat-square&logo=jenkins&logoColor=black"/>
   <img src="https://img.shields.io/badge/ArgoCD-4479A1?style=flat-square&logo=Argo&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 
 </div>
