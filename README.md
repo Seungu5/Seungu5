@@ -1,8 +1,4 @@
-### <div align="center"> 👋 Welcome!, I'm interested in Cloud & Devops & Site Reliability Engineering. </div>
-
-* * *
-
-## <div align="center">보유 기술</div>
+## <div align="center">Stack</div>
 
 <div align="center">
   
@@ -16,6 +12,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 </div>
+
+* * *
+
+### <div align="center"> 👋 Welcome!, I'm interested in Cloud & Devops & Site Reliability Engineering. </div>
+
 
 * * *
 
@@ -33,7 +34,7 @@
 
 <br>
 <details close>
-<summary>🏅Certificate </summary>
+<summary>### 🏅Certificate </summary>
   <ol>
     - AWS Certified Solutions Architect - Associate (SAA)<br>
     - AWS Certified Sysops Administrator - Associate (SOA)<br>
@@ -43,13 +44,4 @@
 </details>
 <br>
 
-
-
-
-### 🏆 Certificattion </div>
-- AWS Certified Solutions Architect - Associate (SAA)<br>
-- AWS Certified Sysops Administrator - Associate (SOA)<br>
-- Microsoft Certified: Azure Fundamentals (Az-900) <br>
-- Google Analytics Individual Qualification (GAIQ) <br>
-</div>
 
