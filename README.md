@@ -1,4 +1,4 @@
-### <div align="center"> 👋 Devops Andrew입니다. </div>
+### <div align="center"> 👋 Hi I'm Andrew(오승우)입니다. </div>
 ### <div align="center"> 클라우드 기술과 Devops에 관심이 있습니다. </div>
 
 * * *
