@@ -5,12 +5,11 @@
 * * *
 
 ### <div align="center"> 📕learning </div>
-<div align="center">
-- IaC (Ansible & Terraform)
-- Container (Docker & Kubernetes)
-- CICD (Jenkins & ArgoCD)
-- Cloud (AWS & AZURE)
-</div>
+<div align="center"> - IaC (Ansible & Terraform) </div>
+<div align="center"> - Container (Docker & Kubernetes) </div>
+<div align="center"> - CICD (Jenkins & ArgoCD) </div>
+<div align="center"> - Cloud (AWS & AZURE) </div>
+
 
 * * *
 
