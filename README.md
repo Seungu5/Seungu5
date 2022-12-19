@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/kubernetes-3970e4?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-f7f1da?style=flat-square&logo=jenkins&logoColor=black"/>
   <img src="https://img.shields.io/badge/ArgoCD-4479A1?style=flat-square&logo=Argo&logoColor=orange"/>
+    [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)
 
 
 
