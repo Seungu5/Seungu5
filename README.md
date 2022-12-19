@@ -2,26 +2,6 @@
 
 * * *
 
-### 📕 Learning List </div>
-<div align="center"> - Linux </div>
-<div align="center"> - Cloud (AWS & AZURE) </div>
-<div align="center"> - IaC (Ansible & Terraform) </div>
-<div align="center"> - Containers (Docker & Kubernetes) </div>
-<div align="center"> - CICD (Jenkins & ArgoCD) </div>
-
-
-
-* * *
-
-🏆 Certificattion </div>
-- AWS Certified Solutions Architect - Associate (SAA)<br>
-- AWS Certified Sysops Administrator - Associate (SOA)<br>
-- Microsoft Certified: Azure Fundamentals (Az-900) <br>
-- Google Analytics Individual Qualification (GAIQ) <br>
-</div>
-
-* * *
-
 ## <div align="center">보유 기술</div>
 
 <div align="center">
@@ -36,3 +16,40 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 </div>
+
+* * *
+
+
+### 📕 Learning List
+- Linux
+- Cloud (AWS & AZURE)
+- IaC (Ansible & Terraform)
+- Containers (Docker & Kubernetes)
+- CICD (Jenkins & ArgoCD)
+
+
+
+* * *
+
+<br>
+<details close>
+<summary>🏅Certificate </summary>
+  <ol>
+    - AWS Certified Solutions Architect - Associate (SAA)<br>
+    - AWS Certified Sysops Administrator - Associate (SOA)<br>
+    - Microsoft Certified: Azure Fundamentals (Az-900) <br>
+    - Google Analytics Individual Qualification (GAIQ) <br>
+  </ol>
+</details>
+<br>
+
+
+
+
+### 🏆 Certificattion </div>
+- AWS Certified Solutions Architect - Associate (SAA)<br>
+- AWS Certified Sysops Administrator - Associate (SOA)<br>
+- Microsoft Certified: Azure Fundamentals (Az-900) <br>
+- Google Analytics Individual Qualification (GAIQ) <br>
+</div>
+
