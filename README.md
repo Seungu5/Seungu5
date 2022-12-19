@@ -1,13 +1,15 @@
-### <div align="center"> 👋 Hi I'm Andrew(오승우)입니다. </div>
-### <div align="center"> 클라우드 기술과 Devops에 관심이 있습니다. </div>
+### <div align="center"> 👋 Hi, I'm (Devops Engineer) Andrew </div>
+### <div align="center"> I'm interested in Cloud & Devops & Site Reliability Engineering. </div>
 
 * * *
 
-### <div align="center"> 📕learning </div>
-<div align="center"> - IaC (Ansible & Terraform) </div>
-<div align="center"> - Container (Docker & Kubernetes) </div>
-<div align="center"> - CICD (Jenkins & ArgoCD) </div>
+### <div align="center"> 📕 Learning List </div>
+<div align="center"> - Linux </div>
 <div align="center"> - Cloud (AWS & AZURE) </div>
+<div align="center"> - IaC (Ansible & Terraform) </div>
+<div align="center"> - Containers (Docker & Kubernetes) </div>
+<div align="center"> - CICD (Jenkins & ArgoCD) </div>
+
 
 
 * * *
@@ -17,6 +19,7 @@
 - AWS Certified Solutions Architect - Associate (SAA)<br>
 - AWS Certified Sysops Administrator - Associate (SOA)<br>
 - Microsoft Certified: Azure Fundamentals (Az-900) <br>
+- Google Analytics Individual Qualification (GAIQ) <br>
 </div>
 
 * * *
