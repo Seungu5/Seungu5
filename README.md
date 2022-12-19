@@ -1,14 +1,16 @@
-### 👋 Devops 오승우입니다. 
-###  스포츠마케팅과, 컴퓨터공학을 전공했습니다.
-### 클라우드 기술과 CICD에 관심이 있습니다.
+### <div align="center"> 👋 Devops 오승우입니다. </div>
+### <div align="center"> 스포츠마케팅과, 컴퓨터공학을 전공했습니다. </div>
+### <div align="center"> 클라우드 기술과 CICD에 관심이 있습니다. </div>
 
 * * *
 
-### 📕learning
+### <div align="center"> 📕learning </div>
+<div align="center">
 - IaC (Ansible & Terraform)
 - Container (Docker & Kubernetes)
 - CICD (Jenkins & ArgoCD)
 - Cloud (AWS & AZURE)
+</div>
 
 * * *
 
@@ -18,8 +20,8 @@
 - AWS Certified Sysops Administrator - Associate (SOA)<br>
 - Microsoft Certified: Azure Fundamentals (Az-900) <br>
 </div>
-* * *
 
+* * *
 
 ## <div align="center">보유 기술</div>
 
