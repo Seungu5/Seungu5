@@ -1,5 +1,4 @@
 ### <div align="center"> 👋 Devops Andrew입니다. </div>
-### <div align="center"> 스포츠마케팅, 컴퓨터공학을 전공했습니다. </div>
 ### <div align="center"> 클라우드 기술과 Devops에 관심이 있습니다. </div>
 
 * * *
