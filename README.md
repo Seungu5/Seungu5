@@ -30,7 +30,7 @@
 - IaC (Ansible & Terraform)
 - Containers (Docker & Kubernetes)
 - CICD (Jenkins & ArgoCD)
-- Python & Shell Script
+- Languages (Python & Shell Script)
 
 
 
