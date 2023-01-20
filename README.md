@@ -38,7 +38,7 @@
 
 <br>
 <details close>
-<summary>🏅Certification </summary>
+<summary>🏅Certification</summary>
   <ol>
     - AWS Certified Solutions Architect - Associate (SAA)<br>
     - AWS Certified Sysops Administrator - Associate (SOA)<br>
