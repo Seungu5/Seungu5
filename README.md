@@ -27,10 +27,11 @@
 
 📕 Learning List 
 - Cloud (AWS & AZURE)
-- IaC (Ansible & Terraform)
-- Containers (Docker & Kubernetes)
+- IaC (Ansible & Terraform & AWS CloudFormation)
+- Containers (Docker & Kubernetes, AWS ECS & EKS)
 - CICD (Jenkins & ArgoCD)
-- Languages (C & Python & Shell)
+- Languages (C & Python & Shell script)
+- OS (Mac & Linux(Ubuntu,CentOS,etc))
 
 
 
