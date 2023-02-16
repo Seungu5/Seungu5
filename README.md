@@ -20,7 +20,7 @@
 * * *
 
 ### <div align="center">  </div>
-### <div align="center"> I'm interested in Cloud & Devops & Site Reliability Engineering👋 </div>
+### <div align="center"> I'm interested in Cloud & Devops & Site Reliability Engineering</div>
 
 * * *
 
